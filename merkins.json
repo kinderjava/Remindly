@@ -1,0 +1,12 @@
+{
+  "docker":
+  {
+    "prettyName": "android",
+    "image": "android",
+    "beforeScripts": [
+      "echo BEFORE SCRIPTS"
+    ],
+    "testCommand": "gradle build"
+  }
+
+}
