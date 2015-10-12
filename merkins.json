@@ -4,7 +4,7 @@
     "prettyName": "android",
     "image": "android",
     "beforeScripts": [
-      "echo BEFORE SCRIPTS"
+      "echo BEFORE SCRIPTS!"
     ],
     "testCommand": "gradle build"
   }
